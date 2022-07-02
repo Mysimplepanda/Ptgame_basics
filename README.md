@@ -1,14 +1,13 @@
 # Python-Game
 ### Python的小遊戲，利用pygame module製作( •̀ ω •́ )y
 
-1.**參考資料~**
-  
-   1. Pygame Page: http://pygame.org
-   2. documentation: http://pygame.org/docs/ref
-   3. Icon Archive: https://iconarchive.com/ (下載遊戲角色)
-   4. Leshy SFMaker: https://www.leshylabs.com/apps/sfMaker/ (下載音效)
-   5. Font Space: https://www.fontspace.com/commercial-fonts (下載字體)
-   6. ~~大福媽萬歲 ~~ <br><br>
+1.**參考資料**
+    1. Pygame Page: http://pygame.org
+    2. documentation: http://pygame.org/docs/ref
+    3. Icon Archive: https://iconarchive.com/ (下載遊戲角色)
+    4. Leshy SFMaker: https://www.leshylabs.com/apps/sfMaker/ (下載音效)
+    5. Font Space: https://www.fontspace.com/commercial-fonts (下載字體)
+    6. ~~大福媽萬歲 ~~ <br><br>
     
  ------
 
@@ -56,4 +55,4 @@ if keys[pygame.K_DOWN] and player_rect.bottom < WINDOW_HEIGHT:
   * [Icon Arxhive: ](https://iconarchive.com/) 網站提供很多遊戲角色下載
   * [Leshy SFMaker: ](https://www.leshylabs.com/apps/sfMaker/) 網站可以下載遊戲特效, 也可以簡單自己製作音效
   
-
+![2.py程式截圖](https://raw.githubusercontent.com/Mysimplepanda/Ptgame_basics/main/2.png)
