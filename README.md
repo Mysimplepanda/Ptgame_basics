@@ -25,7 +25,7 @@
 | _2.py_ | Blit, font, sound and image objects. |
 | _3.py_ | Getting user keyboard and collision dection. |
 
-** _4.Code Snippet_ **
+**_4.Code Snippet_**
 ```Python
 #Create game display
 WINDOW_WIDTH,WINDOW_HEIGHT = 1000, 600
@@ -41,3 +41,15 @@ player_rect.centery = WINDOW_HEIGHT//2
 ### while running~
 displayscreen.blit(player_image, player_rect)
 ```
+```python
+#Key move
+keys = pygame.key.get_pressed()
+if keys[pygame.K_UP] and player_rect.top > 64:
+  player_rect.y -= PLAYER_VELOCITY
+
+if keys[pygame.K_DOWN] and player_rect.bottom < WINDOW_HEIGHT:
+  player_rect.y += PLAYER_VELOCITY
+```
+
+**_5. Game Assets:_**:
+  *[Icon Arxhive:]https://iconarchive.com/ 網站提供很多遊戲角色下載
