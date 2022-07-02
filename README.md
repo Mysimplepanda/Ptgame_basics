@@ -3,7 +3,7 @@
 
 1.**參考資料~**
   
-  `1. Pygame Page: http://pygame.orgˋ
+  1. Pygame Page: http://pygame.org
   2. documentation: http://pygame.org/docs/ref
   3. Icon Archive: https://iconarchive.com/ (下載遊戲角色)
   4. Leshy SFMaker: https://www.leshylabs.com/apps/sfMaker/ (下載音效)
@@ -19,4 +19,8 @@
   * Pygame提供許多內建的game objects來製作遊戲
 
 **_3. Pygame Basics_**:
-  * Create
+| name | Description |
+|:-----:|:=----------:|
+| _1.py_ | Create my game surface, game loop and drawing. |
+| _2.py_ | Blit, font, sound and image objects. |
+| _3.py_ | Getting user keyboard and collision dection. |
