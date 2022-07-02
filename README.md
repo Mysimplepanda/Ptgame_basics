@@ -51,6 +51,6 @@ if keys[pygame.K_DOWN] and player_rect.bottom < WINDOW_HEIGHT:
   player_rect.y += PLAYER_VELOCITY
 ```
 
-**_5. Game Assets:_**:
+**_5. Game Assets:_**
   *[Icon Arxhive: ](https://iconarchive.com/) 網站提供很多遊戲角色下載
   *[Leshy SFMaker: ](https://www.leshylabs.com/apps/sfMaker/) 網站可以下載遊戲特效, 也可以簡單自己製作音效
