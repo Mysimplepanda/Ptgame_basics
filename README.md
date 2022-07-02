@@ -52,4 +52,4 @@ if keys[pygame.K_DOWN] and player_rect.bottom < WINDOW_HEIGHT:
 ```
 
 **_5. Game Assets:_**:
-  *[Icon Arxhive:]https://iconarchive.com/ 網站提供很多遊戲角色下載
+  *[Icon Arxhive:] https://iconarchive.com/ 網站提供很多遊戲角色下載
