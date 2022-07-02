@@ -56,4 +56,4 @@ if keys[pygame.K_DOWN] and player_rect.bottom < WINDOW_HEIGHT:
   * [Icon Arxhive: ](https://iconarchive.com/) 網站提供很多遊戲角色下載
   * [Leshy SFMaker: ](https://www.leshylabs.com/apps/sfMaker/) 網站可以下載遊戲特效, 也可以簡單自己製作音效
   
-<img src="https://raw.githubusercontent.com/Mysimplepanda/Ptgame_basics/main/2.png" width="400" height="300" alt="2.py成是截圖"><> 
+<img src="https://raw.githubusercontent.com/Mysimplepanda/Ptgame_basics/main/2.png" width="400" height="300" alt="2.py成是截圖"><br> 
