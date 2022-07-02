@@ -8,7 +8,7 @@
     3. Icon Archive: https://iconarchive.com/ (下載遊戲角色)
     4. Leshy SFMaker: https://www.leshylabs.com/apps/sfMaker/ (下載音效)
     5. Font Space: https://www.fontspace.com/commercial-fonts (下載字體)
-     6. ~~大福媽萬歲 ~~ <br><br>
+    6. ~~大福媽萬歲 ~~ <br><br>
     
  ------
 
