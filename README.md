@@ -5,6 +5,7 @@
 
     1. Pygame Page: http://pygame.org
     2. documentation: http://pygame.org/docs/ref
+    
  ------
 
 * What is pygame
