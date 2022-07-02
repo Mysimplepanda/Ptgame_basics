@@ -1,7 +1,7 @@
 # Python-Game
 ### Python的小遊戲，利用pygame module製作( •̀ ω •́ )y
 
-1.參考資料~
+1.**參考資料~**
     1. Pygame Page: http://pygame.org
     2. documentation: http://pygame.org/docs/ref
  ------
