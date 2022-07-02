@@ -1,11 +1,9 @@
 # Python-Game
 ### Python的小遊戲，利用pygame module製作( •̀ ω •́ )y
 
- ======
-
-
 * Pygame Page: http://pygame.org
 * documentation: http://pygame.org/docs/ref
+ ------
 
 * What is pygame
   * Pygame提供Display, Sound, Music, Image, Text, Event幫助製作遊戲。
